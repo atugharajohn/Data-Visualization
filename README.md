@@ -1,8 +1,8 @@
-Top 3 Python Packages For Data Visualization: A Comparative Analysis
+# Top 3 Python Packages For Data Visualization: A Comparative Analysis
 
 ![alt text](image1.jpg)
 
-Introduction
+## Introduction
 Data visualization is the visual presentation of data or information for quick and impactful communication. We all have heard the phrase “Picture speaks louder than words”. According to research, our brain can recall 65% of visual data, 10 to 20% of spoken words, and only 10% of written data.  Thus data visualization communicates data or information clearly and effectively to readers in the form of graphs, charts, maps, plots, and many more. Various plots and charts help us to analyze data from all angles and efficiently extract valuable insights from data. We will be learning different types of bar charts and their customization in this article.
 
 Who Can Benefit from Comparing Python Plotting Packages?
