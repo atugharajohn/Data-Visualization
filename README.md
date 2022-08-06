@@ -36,3 +36,11 @@ native.country: Country of origin or native country of the individual (e.g., Uni
 income: The target variable to be predicted indicates whether an individual's annual income is below or exceeds $50K. The value is either ">50K" or "<=50K."
 
 We are using this dataset for data visualization as a first step in the machine learning task.
+
+# Final Scorecard
+In the Final Scorecard, we will compare all packages on the below parameters:
+![alt text](tbF1.PNG) ![alt text](tbF2.PNG) ![alt text](tbF3.PNG)</br>
+# Conclusion
+No doubt Matplotlib, Seaborn, and Plotly all three are top Python packages for data visualizations. Matplotlib might require more lines of code to implement but it is highly interactive and simple and fast to execute. When Seaborn combined with Matplotlib both did a wonderful job for different graphs. On the other hand, Plotly might seem a little complex at first to understand, but once engineers get their hands on it, it will be like an eye-blinking job for huge data visualizations.
+
+You can choose the Data Visualization package wisely according to the dataset, the type of chart to be prepared, and your understanding and command of the library.
