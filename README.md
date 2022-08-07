@@ -39,7 +39,7 @@ We are using this dataset for data visualization as a first step in the machine 
 
 # Final Scorecard
 In the Final Scorecard, we will compare all packages on the below parameters:
-![alt text](tbF1.PNG) ![alt text](tbF2.PNG) ![alt text](tbF3.PNG)</br>
+![alt text](media/tbF1.PNG) ![alt text](media/tbF2.PNG) ![alt text](media/tbF3.PNG)</br>
 # Conclusion
 No doubt Matplotlib, Seaborn, and Plotly all three are top Python packages for data visualizations. Matplotlib might require more lines of code to implement but it is highly interactive and simple and fast to execute. When Seaborn combined with Matplotlib both did a wonderful job for different graphs. On the other hand, Plotly might seem a little complex at first to understand, but once engineers get their hands on it, it will be like an eye-blinking job for huge data visualizations.
 
