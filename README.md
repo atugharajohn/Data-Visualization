@@ -38,19 +38,19 @@ income: The target variable to be predicted indicates whether an individual's an
 We are using this dataset for data visualization as a first step in the machine learning task.
 
 # Data Visualizations in Python
-1. Bar Chart
+## 1. Bar Chart
 ### Characteristics Table
 - Bar Chart
 ![alt text](media/tb1.PNG)</br>
 - Grouped Bar chart
 ![alt text](tb4.PNG)</br>
-2. Stacked Chart
+## 2. Stacked Chart
 ### Characteristics Table
 - Stacked Chart
 ![alt text](media/tb7.PNG)</br>
 - 100% Stacked Chart
 ![alt text](media/tb10.PNG)</br>
-3. Line Bar Graph
+## 3. Line Bar Graph
 ![alt text](media/tb13.PNG)</br>
 
 # Final Scorecard
