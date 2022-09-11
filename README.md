@@ -43,7 +43,7 @@ We are using this dataset for data visualization as a first step in the machine 
 - Bar Chart
 ![alt text](media/tb1.PNG)</br>
 - Grouped Bar chart
-![alt text](tb4.PNG)</br>
+![alt text](media/tb4.PNG)</br>
 ## 2. Stacked Chart
 ### Characteristics Table
 - Stacked Chart
